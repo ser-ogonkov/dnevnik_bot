@@ -9,9 +9,6 @@
 * Анастасия Василец  https://github.com/John-Doe404
   > Автор идеи и менеджер проекта
 
-* Валерия Шин  https://github.com/shvaleriiash
-  > Главный дизайнер
-
 * Роберт Калентьев  https://github.com/besvich
   > Программист 
 
