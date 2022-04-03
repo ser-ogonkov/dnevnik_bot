@@ -32,4 +32,4 @@
 
 ---
 ## 4. Ссылки на исходники
-  > https://region.obramur.ru/help/index.html?schoolresources.htm
+* https://region.obramur.ru/help/index.html?schoolresources.htm
