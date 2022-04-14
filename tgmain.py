@@ -17,7 +17,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 scheduler = AsyncIOScheduler()
 db = SQLighter('db.db')
-bot = Bot(token='5117275801:AAGHwoaUCbusJavBHxd9r4mEBC3yKdlh6rs')
+bot = Bot(token='')
 dp = Dispatcher(bot, storage=MemoryStorage())
 dp.middleware.setup(LoggingMiddleware())
 logging.basicConfig(level=logging.INFO)
